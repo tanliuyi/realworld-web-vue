@@ -1,0 +1,22 @@
+{
+  "name": "realworld-web-vue",
+  "version": "1.0.0",
+  "description": "vue2.0的一个小demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuduizhang/realworld-web-vue.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "liuduizhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuduizhang/realworld-web-vue/issues"
+  },
+  "homepage": "https://github.com/liuduizhang/realworld-web-vue#readme"
+}
